@@ -6,9 +6,8 @@
 3.session会在一定时间内保存在服务器上。当访问增多，会比较占用你服务器的
   性能考虑到减轻服务器性能方面，应当使用COOKIE。
 4.单个cookie保存的数据不能超过4K，很多浏览器都限制一个站点最多保存20个cookie。
-
-![1](https://images2017.cnblogs.com/blog/1200652/201712/1200652-20171207223151581-969964750.png "1")
 ```
+![1](https://images2017.cnblogs.com/blog/1200652/201712/1200652-20171207223151581-969964750.png "1")
 ## HashMap和HashTable区别。
 ```
 1.hashmap可以接受键值（key）和值（value）为null，而hashTable不可以。
