@@ -15,3 +15,5 @@ Error 用来指示运行时环境发生的错误。
 - 所有异常都必须是 Throwable 的子类。
 - 如果希望写一个检查性异常类，则需要继承 Exception 类。
 - 如果你想写一个运行时异常类，那么需要继承 RuntimeException 类。
+
+https://www.cnblogs.com/hysum/p/7112011.html
