@@ -1,0 +1,13 @@
+String a = "123"; String b = "123"; a==b 的结果是什么？这包含了内存，String 存储方式等诸多知识点。
+
+HashMap 里的 hashcode 方法和 equal 方法什么时候需要重写？如果不重写会有什么后果？对此大家可以进一步了解 HashMap（甚至 ConcurrentHashMap）的底层实现。
+
+ArrayList 和 LinkedList 底层实现有什么差别？它们各自适用于哪些场合？对此大家也可以了解下相关底层代码。
+
+volatile 关键字有什么作用？由此展开，大家可以了解下线程内存和堆内存的差别。
+
+CompletableFuture，这个是 JDK1.8 里的新特性，通过它怎么实现多线程并发控制？
+
+JVM 里，new 出来的对象是在哪个区？再深入一下，问下如何查看和优化 JVM 虚拟机内存。
+
+Java 的静态代理和动态代理有什么差别？最好结合底层代码来说。
